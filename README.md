@@ -7,7 +7,7 @@ You can check how it works here:
 
 ```
  npm install
- npm start
+ npm run dev
 ```
 
 Runs the app in the development mode.\
